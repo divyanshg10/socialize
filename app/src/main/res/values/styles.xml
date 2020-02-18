@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ffc107</item>
+        <item name="colorPrimaryDark">#ffc107</item>
+        <item name="colorAccent">#4cd137</item>
+    </style>
+
+    <style name="postactivity" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">#C0CA33</item>
+        <item name="colorAccent">#ffc107</item>
+        <item name="colorPrimary">#ffc107</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
